@@ -1,0 +1,72 @@
+body{
+  font-family: 'Karla', sans-serif !important;
+  font-size: 16px;
+  
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+.bgCyan {
+    background-color: hsl(179, 62%, 43%);
+  }
+
+.bgBYellow{
+    background-color: hsl(71, 73%, 54%);
+    
+  }
+
+.bgLGray{
+  background-color:hsl(204, 43%, 93%) ;
+}
+
+.bgGBlue{
+  background-color:hsl(218, 22%, 67%) ;
+}
+
+.fontCyan {
+  color: hsl(179, 62%, 43%);
+}
+
+.fontBYellow{
+  color: hsl(71, 73%, 54%);
+}
+
+.fontLGray{
+  color:hsl(204, 43%, 93%) ;
+}
+
+.fontGBlue{
+  color:hsl(218, 22%, 67%) ;
+}
+
+.fWeight7{
+  font-weight: 700;
+}
+
+.fWeight4{
+  font-weight: 400;
+}
+
+.fSize{
+  font-size: 16px;
+}
+
+.opacity{
+  opacity: 0.6;
+}
+
+button{
+  cursor: pointer;
+
+}
+
+button:hover{
+  opacity: 0.9;
+}
