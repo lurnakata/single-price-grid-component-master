@@ -1,7 +1,12 @@
 body{
   font-family: 'Karla', sans-serif !important;
   font-size: 16px;
+  height: 100%;
   
+}
+.container{
+  width: 100vw !important;
+  height: 100vh !important;
 }
 
 .attribution {
